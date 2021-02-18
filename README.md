@@ -10,4 +10,4 @@
 
 ## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam01-1) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam05-4)
 
-
+## [Курсовой проект](https://github.com/alexvolk228/VolkovAlexey.github.io/tree/master/Course%20project)
