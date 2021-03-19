@@ -58,11 +58,11 @@
 Диаграмма UML Use Case
 ![p4](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
 
-**4.1 Идентификатор прецедента:** ???
+**4.1 Идентификатор прецедента:**  A13
 
-**4.2 Название прецедента:** ???
+**4.2 Название прецедента:** Обработка заказа
 
-**4.3 Контекст:** ???
+**4.3 Контекст:** A1 Управление продажами
 
 **4.4 Участники (actors) и цели (goals):**
 
@@ -114,28 +114,28 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** <программа, модуль, сообщение, база данных...>
+* **Описываемый объект:** БД заказы
 
 * **Диаграмма UML Class:**
 ![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
-* **Описываемые процессы и потоки данных:** ???
+* **Описываемые процессы и потоки данных:** A13 Обработка заказа
 
 * **Диаграмма UML Sequence:**
 ![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
-* **Описываемый объект:** <комплект поставки>
+* **Описываемый объект:** структура программных средств CRM-системы
 
 * **Диаграмма UML Component:**
 ![p7](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
 
 ### 8. Демонстрация реализации (личная страница)
 
-<ссылка или скриншоты>
+Личная страница на [Github]()
 
 ### 9. Подготовка к интерпретации построенных моделей
 
