@@ -24,17 +24,30 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](myrep\a-0.jpg)
+![A-0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A0.png)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](myrep\a0.jpg)
+![A0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A1-A4.png)
+
+* A1 (декомпозиция процесса/процессов внутренней среды)
+
+![A1](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A11-A14.png)
+
+
+* A2 (декомпозиция процесса/процессов внутренней среды)
+
+![A2](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A21-A23.png)
+
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](myrep\a3.jpg)
+![A3](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A31-A33.png)
 
-...
+
+* A4 (декомпозиция процесса/процессов внутренней среды)
+
+![A4](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A41-A43.png)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -44,13 +57,13 @@
 
 **Допустимые виды хранилищ и их размещение:** <файлы, директории, репозитории, базы данных>
 
-* A31 Автоматизация процесса А31
+* A12 Автоматизация процесса А12
 
-![A31](myrep\a31.jpg)
+![A12](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A12-dfd.png)
 
-* A32 Автоматизация процесса А32
+* A13 Автоматизация процесса А13
 
-![A32](myrep\a32.jpg)
+![A13](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A13-dfd.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
