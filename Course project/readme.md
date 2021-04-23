@@ -65,6 +65,26 @@
 
 ![A13](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A13-dfd.png?raw=true)
 
+* Автоматизация процесса А14
+
+![A14](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A14-dfd.png?raw=true)
+
+* Автоматизация процесса А21
+
+![A21](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A21-dfd.png?raw=true)
+
+* Автоматизация процесса А32
+
+![A32](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A32-dfd.png?raw=true)
+
+* Автоматизация процесса А33
+
+![A33](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A33-dfd.png?raw=true)
+
+* Автоматизация процесса А43
+
+![A43](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A43-dfd.png?raw=true)
+
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
