@@ -24,30 +24,30 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A0.png?raw=true)
+![A-0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A0.png?raw=true)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A1-A4.png?raw=true)
+![A0](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A1-A4.png?raw=true)
 
 * A1 (декомпозиция процесса/процессов внутренней среды)
 
-![A1](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A11-A14.png?raw=true)
+![A1](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A11-A14.png?raw=true)
 
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A21-A23.png?raw=true)
+![A2](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A21-A23.png?raw=true)
 
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A31-A33.png?raw=true)
+![A3](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A31-A33.png?raw=true)
 
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A41-A43.png?raw=true)
+![A4](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A41-A43.png?raw=true)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -59,11 +59,11 @@
 
 * Автоматизация процесса А12
 
-![A12](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A12-dfd.png?raw=true)
+![A12](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A12-dfd.png?raw=true)
 
 * Автоматизация процесса А13
 
-![A13](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/ScreenShots/A13-dfd.png?raw=true)
+![A13](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/A13-dfd.png?raw=true)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
