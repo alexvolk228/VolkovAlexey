@@ -168,6 +168,7 @@
 * **Описываемый объект:** структура программных средств CRM-системы
 
 * [**Диаграмма UML Component:**](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/component.txt)
+
 ![Component](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-component.png)
 
 ### 8. Демонстрация реализации (личная страница)
