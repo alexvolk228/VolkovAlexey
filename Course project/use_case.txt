@@ -1,29 +1,86 @@
 @startuml
 left to right direction
 
-actor "Сотрудник"
 actor "Клиент"
-actor "Система_Предприятия"
+actor "Администратор"
+actor "Менеджер"
+actor "Технолог"
+actor "Кладовщик"
+actor "Курьер"
 
-usecase case1 as "Работа с заказами"
+usecase case1 as "Совершение заказов"
 
-usecase case2 as "CRM-система"
+usecase case2 as "Просмотр каталога"
 
-usecase case3 as "Просмотр каталога"
+usecase case3 as "Формирование корзины"
 
-usecase case4 as "Формирование заказов"
+usecase case4 as "Оформление заказа"
 
-usecase case5 as "Интернет-магазин"
+usecase case5 as "Управление БД и сотрудниками"
 
+usecase case6 as "Просмотр всех заказов"
 
-Сотрудник --> case1
+usecase case7 as "Удаление заказов"
+
+usecase case8 as "Просмотр каталога"
+
+usecase case9 as "Просмотр базы клиентов"
+
+usecase case10 as "Добавление новых товаров"
+
+usecase case11 as "Добавление сотрудников"
+
+usecase case12 as "Смена паролей"
+
+usecase case13 as "Просмотр отчётов"
+
+usecase case14 as "Работа с заказами"
+
+usecase case15 as "Смена статусов заказов"
+
+usecase case16 as "Работа с обработанными заказами"
+
+usecase case17 as "Просмотр обработанных заказов"
+
+usecase case18 as "Работа с произведёнными заказами"
+
+usecase case19 as "Просмотр произведённых заказов"
+
+usecase case20 as "Управление доставкой"
+
+usecase case21 as "Просмотр заказов переданных в доставку"
+
+Клиент --> case1
 case1 ..> case2
+case1 ..> case3
+case1 ..> case4
 
-Клиент --> case3
-Клиент --> case4
-case3 ..> case5
-case4 ..> case5
+Администратор --> case5
+case5 ..> case6
+case5 ..> case7
+case5 ..> case8
+case5 ..> case9
+case5 ..> case10
+case5 ..> case11
+case5 ..> case12
+case5 ..> case13
 
-case2 --> Система_Предприятия
-case5 --> Система_Предприятия
+Менеджер --> case14
+case14 ..> case6
+case14 ..> case8
+case14 ..> case9
+case14 ..> case13
+case14 ..> case15
+
+Технолог --> case16
+case16 ..> case17
+case16 ..> case15
+
+Кладовщик --> case18
+case18 ..> case19
+case18 ..> case15
+
+Курьер --> case20
+case20 ..> case21
+case20 ..> case15
 @enduml
