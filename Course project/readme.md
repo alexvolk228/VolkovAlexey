@@ -154,7 +154,7 @@
 * **Описываемый объект:** БД заказы
 
 * **Диаграмма UML Class:**
-![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p5](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-class.png?raw=true)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
