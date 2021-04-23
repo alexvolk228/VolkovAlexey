@@ -1,0 +1,29 @@
+@startuml
+left to right direction
+
+actor "Сотрудник"
+actor "Клиент"
+actor "Система_Предприятия"
+
+usecase case1 as "Работа с заказами"
+
+usecase case2 as "CRM-система"
+
+usecase case3 as "Просмотр каталога"
+
+usecase case4 as "Формирование заказов"
+
+usecase case5 as "Интернет-магазин"
+
+
+Сотрудник --> case1
+case1 ..> case2
+
+Клиент --> case3
+Клиент --> case4
+case3 ..> case5
+case4 ..> case5
+
+case2 --> Система_Предприятия
+case5 --> Система_Предприятия
+@enduml
