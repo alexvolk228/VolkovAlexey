@@ -87,7 +87,7 @@
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
-Диаграмма UML Use Case
+[Диаграмма UML Use Case](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/use_case.txt)
 ![UML](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml.png?raw=true)
 
 **4.1 Идентификатор прецедента:**  A13
@@ -102,7 +102,7 @@
 |---|---|---|
 | Клиент | Внешний  | Оформление заказа |
 | Администратор | Основной  | Управление БД и сотрудниками |
-| Менеджер | Основной  | Управление обработкой заказа |
+| Менеджер | Основной  | Управление заказами |
 | Технолог | Основной  | Проверка деталей на совместимость |
 | Курьер | Основной  | Доставка деталей |
 | CRM-система | Инструмент| Предоставление средств для работы с клиентами |
