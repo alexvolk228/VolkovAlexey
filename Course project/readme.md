@@ -157,7 +157,7 @@
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
-* **Описываемые процессы и потоки данных:** A13 Обработка заказа
+* **Описываемые процессы и потоки данных:** A14 Передача заказа на производство
 
 * [**Диаграмма UML Sequence:**](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/sequence.txt)
 ![Sequence](http://www.plantuml.com/plantuml/png/dPBFIiD04CRl-nHBxtq13rBmxCKtsBOB1arIacszcjO_We9uqeCeuWjinRJ1jkahpBoHtsonj2Y27cPWij_-vfkTj79dCjUFZrL-52KzavbOnscITWwpDBRQPNshbEcuDDFqI2Kj4EyqeP9FjSbrFxUPmYqNTQAUIPnkx1tiDxcWYWiUGZidtn3XYMrlw-X56FGcEIX06gYkSQPjSelpE_8q9Q_HpgFjWg_vF0ZbN2abhNLpLyXwHzC3n7Cn6AAYKWS7deSyua8uWD772YeJHGFZRF25490O4D8zD4jOgxdGGE5czJzsc4YIqCMrq9ze34QDmMTh6jA2pwX6qpce5wYhDMOrhwHDaw_ekwIIhmAi_Aj7mMmythDiGJOB_IMqePZoY6Py8n29hsUITm-3u6DDOqWzJTPDVxhvpHpV_cgkQxTdtwZ5D-gjzRLiqiKF_0a0)
