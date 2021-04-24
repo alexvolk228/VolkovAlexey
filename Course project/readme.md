@@ -160,7 +160,7 @@
 * **Описываемые процессы и потоки данных:** A13 Обработка заказа
 
 * [**Диаграмма UML Sequence:**](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/sequence.txt)
-![Sequence](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-sequence.png?raw=true)
+![Sequence](http://www.plantuml.com/plantuml/png/ZPHVRXCn4CRVznHMtti17b2luYQMY219jUkKLn8e51K9WIeXyH34dmDieAQXITqhVBuHtuosJMoYKgdsrlRCRxxvenmqtjP-CdnMDKy7eoDRsw4PZaVZtfDwF7J6rnDNLRRdnxN1PwomHC1rcXdRc4dZweeUVj0R7DcHDtluoDV5VfgYnPyqsnEhv-wmCFgAa5xWf-ngGSnnrRVU7jh6yVq3lI_H6bpmdsj6EqidQiXtYf6mPl-nWCqZWtD4BD2Ijn9f8j2a6I8lMeRXryZV5I9FbrYIzr8I6XnRxrGT5tagGu0_r7AD9NUbTD0CSKOe8ZVU11e74KhpjKadl58VgLPwYx29ffdAjgN_swrKOLxaoMYOKdlVvRnElfQ5lBaclr0Hl-ygehwlkipQz9hdfS4DOaQd8V5PSSfop-yect9BjuZHhjrRslFRXY9ey2rF9hQxJ3eKzFr4gnjfIPhUayrMvrkiDqWT7Td-AwSBSehGlQrBgBflOUPTjHU8jBmg9dUNBktgfcYXJ7RdKFD31DSlnBpaPLxVqvH1GpfLbq0v_-BACVo2eADCvUaDKz03ku9LUaVnhQm7ZTfEJuDOparwdoVHTtcpoZ4lvlB0ZVhyrVeB)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
@@ -168,7 +168,7 @@
 
 * [**Диаграмма UML Component:**](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/component.txt)
 
-![Component](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-component.png)
+![Component](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuIhEpimhI2nAp5L8piyjoCzBpIjHgEPoIapEJY_AByrBSSxFoIzI2C_8B4dbSYmgoY-723Zb05LmEUKNfQGM8OlKSY6Pc9bNabgKbfYSIfc928T5NvXuOSE5xHSsA5pO0cJilR3tOlV5rbY5n6855oTaTSv1lhh95tPSRBpOT67hXJqNDe3Lk3cZcBNmmjQB3HSsWKYmT71gKLbg4HUNXgQ2ae-Zdn98p0VCymW92G1pFRYut9mLT86q1v24Qe1GGBuFbm-G1Bh48JKl1HYu0000)
 
 ### 8. Демонстрация реализации (личная страница)
 
