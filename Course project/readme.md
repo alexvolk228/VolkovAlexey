@@ -150,7 +150,7 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** БД заказы
+* **Описываемый объект:** БД CRM
 
 * **Диаграмма UML Class:**
 ![Class](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-class.png?raw=true)
