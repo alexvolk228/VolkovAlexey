@@ -88,7 +88,7 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 [Диаграмма UML Use Case](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/use_case.txt)
-![UML](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/uml-use_case.png?raw=true)
+![UML](http://www.plantuml.com/plantuml/png/ZPJDJXin4CVlVWehTn0E7vHBXTHpBts1A0hRDX8bKhBSar2fbJXmR5LL_P3w04kIBUw6NLvXvetw7tkpBawK8hG6U-Ot7_ynFXsbtM5w-UvSdIUlKvqEzB3_vcsgp_h3f9Vs1nTATNlfOAXRz8aoAl3TyGUoLBGQmrVAgSIteD-KypWOlb15z_Z18PYS9-0j_Ud0q_8OHC5JglubFbE98_XBG9vs06SqbwG0oyRlnQkN7KIpF15lSMefTJbAUjrHecKnkZj2k9yeOERIVtGrMierGjLzY37YsfxxZW8g9BZ7EkMn5d-UWbc2cQzbs_VKB-a5ZFGcURDLna8ClWM-ZjW3ptxZzpMzt5HfdF7GKpzWl0M7qZHF7W5IHmGTrQdebiSD2FVjaXpNaeYCRiWPPXapcaevUt2TMvpDy7iXuv6_eeZFDXTVrWA8qXOOj98cD59MLF0LDhbSZuszdOI1tm5OIUzAdaFJBD0HQVR-Cxq7CV0DBRnMLIIVtIwVCU5AYNgLY0BVMHWqklT6hvSqlEGR7RBmjHEe06AtQ61MjvSg1BZ2c3RVUIqn7uVpTJ_v7rRlx3pterH-eBkxVdyIxSsUKl73qS16kRLnRaVx_MX_e5JyrZIn3fLR6z-ZQ7yCTllZ4ifgAxN-m0IpKQV9nHcUpBy0)
 
 **4.1 Идентификатор прецедента:**  A1
 
