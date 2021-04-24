@@ -1,32 +1,21 @@
 @startuml
 skinparam monochrome true
 
-actor Клиент as user
-participant "Веб-сайт" as web
+actor Менеджер as user
+participant "CRM-система" as web
 participant "Сервер" as serv
 database "База данных" as base
 
-user -> web : Добавление товаров в корзину
-activate web
-web -> serv : Формирование корзины во временном хранилище
-activate serv
-serv -> web : Товары добавлены в корзину
-deactivate serv
-web -> user : Отображение информации по корзине 
-deactivate web
 
-user -> web : Оформление заказа
+user -> web : Изменение статуса заказа
 activate web
-web -> serv : Данные по заказу
+web -> serv : Запрос на изменение статуса заказа
 activate serv
-serv -> base : Запрос информации по товарам
+serv -> base : Обновление информации
 activate base
-base -> serv : Данные по запрошенным товарам
-serv -> serv : Обработка данных по товарам в заказе
-serv -> base : Добавление нового заказа
-base -> serv : Успешное добавление
+base -> serv : Успешное изменение статуса заказа
 serv -> web : Передача результата
-web -> user : Отображение результата оформления заказа
+web -> user : Отображение результата изменения статуса заказа
 deactivate base
 deactivate serv
 deactivate web
