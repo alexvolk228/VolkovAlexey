@@ -1,12 +1,11 @@
 @startuml
 left to right direction
 
-actor "Клиент"
-actor "Администратор"
+actor "Заказчик"
 actor "Менеджер"
-actor "Технолог"
-actor "Кладовщик"
-actor "Курьер"
+actor "Коммерческий_директор"
+actor "Интернет_магазин"
+actor "CRM_система"
 
 usecase case1 as "Совершение заказов"
 
@@ -16,71 +15,36 @@ usecase case3 as "Формирование корзины"
 
 usecase case4 as "Оформление заказа"
 
-usecase case5 as "Управление БД и сотрудниками"
+usecase case5 as "Работа с заказами"
 
-usecase case6 as "Просмотр всех заказов"
+usecase case6 as "Обработка заказов"
 
-usecase case7 as "Удаление заказов"
+usecase case7 as "Передача заказов на производство"
 
-usecase case8 as "Просмотр каталога"
+usecase case8 as "Работа с нормативными документами"
 
-usecase case9 as "Просмотр базы клиентов"
+usecase case9 as "Создание регламента"
 
-usecase case10 as "Добавление новых товаров"
+usecase case10 as "Формирование порядка обработки заказов"
 
-usecase case11 as "Добавление сотрудников"
+usecase case11 as "Предоставление средств для работы с клиентами"
 
-usecase case12 as "Смена паролей"
+usecase case12 as "Получение заказов от клиентов"
 
-usecase case13 as "Просмотр отчётов"
+Коммерческий_директор --> case8
+case8 ..> case9
+case8 ..> case10
 
-usecase case14 as "Работа с заказами"
-
-usecase case15 as "Смена статусов заказов"
-
-usecase case16 as "Работа с обработанными заказами"
-
-usecase case17 as "Просмотр обработанных заказов"
-
-usecase case18 as "Работа с произведёнными заказами"
-
-usecase case19 as "Просмотр произведённых заказов"
-
-usecase case20 as "Управление доставкой"
-
-usecase case21 as "Просмотр заказов переданных в доставку"
-
-Клиент --> case1
+Заказчик --> case1
 case1 ..> case2
 case1 ..> case3
 case1 ..> case4
 
-Администратор --> case5
+Менеджер --> case5
 case5 ..> case6
 case5 ..> case7
-case5 ..> case8
-case5 ..> case9
-case5 ..> case10
-case5 ..> case11
-case5 ..> case12
-case5 ..> case13
 
-Менеджер --> case14
-case14 ..> case6
-case14 ..> case8
-case14 ..> case9
-case14 ..> case13
-case14 ..> case15
+Интернет_магазин --> case12
 
-Технолог --> case16
-case16 ..> case17
-case16 ..> case15
-
-Кладовщик --> case18
-case18 ..> case19
-case18 ..> case15
-
-Курьер --> case20
-case20 ..> case21
-case20 ..> case15
+CRM_система --> case11
 @enduml
