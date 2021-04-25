@@ -47,7 +47,7 @@
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A41–A43.png?raw=true)
+![A4](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A41-A43.png?raw=true)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -75,7 +75,7 @@
 
 * Автоматизация процесса А32
 
-![A32](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A32–dfd.png?raw=true)
+![A32](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A32-dfd.png?raw=true)
 
 * Автоматизация процесса А33
 
@@ -83,7 +83,7 @@
 
 * Автоматизация процесса А43
 
-![A43](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A43–dfd.png?raw=true)
+![A43](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Ramus/A43-dfd.png?raw=true)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
