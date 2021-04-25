@@ -248,7 +248,7 @@
 
 Стандарт цели: определение автоматизируемых функций. 
 
-![p10-1]()
+![p10-1](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/10-1.png?raw=true)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
