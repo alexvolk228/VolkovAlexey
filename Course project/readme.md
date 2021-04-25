@@ -274,7 +274,7 @@
 ![FPA](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/FPA.png?raw=true)
 
 Расчет трудозатрат на разработку «с нуля» методом COCOMO II:
-
+![COCOMO](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/Screenshots/COCOMO.png?raw=true)
 **ВЫВОДЫ**
 
 Смотря на значения метода COCOMO II делаем вывод, что система является экономически выгодной (с учетом того, что программисты имеют низкие навыки) и может быть реализована за менее чем 9 месяцев командой из 25 человек.
