@@ -168,7 +168,7 @@
 
 * [**Диаграмма UML Component:**](https://github.com/alexvolk228/VolkovAlexey.github.io/blob/master/Course%20project/component.txt)
 
-![Component](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuIhEpimhI2nAp5L8piyjoCzBpIjHgEPoIapEJY_AByrBSSxFoIzI2C_8B4dbSYmgoY-723Zb05LmEUKNfQGM8OlKSY6Pc9bNabgKbfYSIfc928T5NvXuOSE5xHSsA5pO0cJilR3tOlV5rbY5n6855oTaTSv1lhh95tPSRBpOT67hXJqNDe3Lk3cZcBNmmjQB3HSsWKYmT71gKLbg4HUNXgQ2ae-Zdn98p0VCymW92G1pFRYut9mLT86q1v24Qe1GGBuFbm-G1Bh48JKl1HYu0000)
+![Component](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuIhEpimhI2nAp5L8piyjoCzBpIjHgEPoIapEJY_AByrBSSxFoIzI2C_8B4dbSYmgoY-723Zb05LmEUKNfQGM8OlKSY6Pc9bNabgKbfYSIfc928T5NvXuOSE5xHSsA5pO0cJilR3tOlV5rbY5n6855oSKTPCkRBsmKVV2_eiD5tPSs7rXtuLjG86zGFPMi6etPnJL2ozi1IhS12B1qi6fHMMfHLnS6feAIZwEVaeWCHympoCa903CzU3YSdDMq0NI7a0IgW520Va-N3v04kWcXzIy560m0m00)
 
 ### 8. Демонстрация реализации (личная страница)
 
