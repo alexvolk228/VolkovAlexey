@@ -11,7 +11,7 @@ ArrowColor Black
 BorderColor Black
 }
 component [База данных] as DB
-component [CRM-cистема] as FC
+component [Веб-приложение] as FC
 component [Сервер] as Server
 
 () "LAN" as L
